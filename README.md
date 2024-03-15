@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README file that you can use for your GitHub project:
 
 ---
 
